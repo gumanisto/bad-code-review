@@ -1,6 +1,6 @@
 <?php
 
-// Let's assume this is the code in the controller. List everything that you think is not correct
+// Let's assume this is the code in the controller. List everything that you think is not correct.
 class Contrloller
 {
     /**
